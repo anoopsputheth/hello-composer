@@ -1,5 +1,5 @@
 {
-    "name": "vitalis/hello-composer",
+    "name": "anoopvitalis/hello-composer",
     "description": "A simple hello world composer package",
     "type": "library",
     "license": "MIT",
@@ -10,7 +10,7 @@
         }
     ],
     "minimum-stability": "stable",
-    
+
      "autoload": {
         "psr-4": {"vitalis\\HelloWorld\\": "src/"}
     },
